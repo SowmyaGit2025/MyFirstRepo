@@ -1,2 +1,5 @@
 "My First file on git"
 "Making a change by adding this line in this file for my second commit"
+
+update
+"I have successfully added my GitHub account and as a remote repository"
